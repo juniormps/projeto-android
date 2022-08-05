@@ -55,8 +55,8 @@ header > p{
 	max-width: 600px; /*Isto serve para reduzir a área do parágrafo*/
 	padding-right: 10px; /*para o parágrafo não ficar tão colado na lateral da tela quando esta diminui de tamanho*/
 	padding-left: 10px;
+	padding-bottom: 50px;
 	margin: auto; /*para centralizar o paragrafo*/
-	margin-bottom: 30px;
 	text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.425);
 }
 
